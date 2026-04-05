@@ -11,7 +11,7 @@ A modern and responsive **Weather Application** built using **HTML, CSS, and Jav
 * 🌡️ Real-time temperature, humidity, and weather conditions
 * 🌙 Dark mode toggle
 * 🕸️ Animated background using particles.js
-* ⚡ Fully responsive design
+* ⚡ Fully responsive designs
 
 ---
 
